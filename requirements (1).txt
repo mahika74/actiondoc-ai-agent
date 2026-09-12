@@ -1,0 +1,9 @@
+
+google-genai
+gradio
+pypdf
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langgraph
+chromadb
